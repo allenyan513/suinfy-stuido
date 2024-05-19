@@ -1,0 +1,6 @@
+[submodule "third-party/ollama"]
+	path = third-party/ollama
+	url = git@github.com:ollama/ollama.git
+[submodule "third-party/whisper-cpp"]
+	path = third-party/whisper-cpp
+	url = git@github.com:ggerganov/whisper.cpp.git
